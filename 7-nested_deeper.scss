@@ -1,7 +1,10 @@
-button {
-  color: #FF0000;
+body {
+    font-size: 14px;
 
-  &:hover {
-    color: #00FF00;
-  }
+    h1 {
+        font-size: 16px;
+    }
+    h1.smaller {
+        font-size: 12px;
+    }
 }
